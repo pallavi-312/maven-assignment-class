@@ -22,4 +22,8 @@
   </plugin>
   </plugins>
   </build>
+  
+<modules>
+  <module>maven-assignment</module>
+</modules>
 </project>
